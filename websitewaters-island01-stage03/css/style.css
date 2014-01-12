@@ -41,7 +41,8 @@ ul.nav {
 
 ul.nav li {
 	float: left;
-	margin-right: 80px;
+	margin-right: 20px;
+	font-size: 30px;
 }
 
 ul.nav li a {
